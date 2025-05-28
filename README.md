@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://i.ibb.co/1t2CT9sQ/echo-echo-ben-10.gif" alt="echo-echo-ben-10">
+
+<img src="https://github.com/1337Xcode/echo-echo/files/echo-echo.gif" alt="echo-echo-gif">
 
 # Echo Echo
 
@@ -109,7 +110,7 @@ Select components and educational examples may be open-sourced in the future onc
 - **Mobile Support:** Limited functionality on iOS devices
 - **Relay Dependency:** Peer discovery relies on public Gun.js relays
 - **Closed Source:** Codebase is not reviewable at this time
-- **Scale Limitations:** Not designed or tested for large-scale or production use
+- **Scale Limitations:** Not designed or tested for large-scale use
 
 ---
 
