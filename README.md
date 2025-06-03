@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/1337Xcode/echo-echo/files/echo-echo.gif" alt="echo-echo-gif">
+<img src="https://github.com/1337Xcode/echo-echo/blob/main/files/echo-echo.gif" alt="echo-echo-gif">
 
 # Echo Echo
 
